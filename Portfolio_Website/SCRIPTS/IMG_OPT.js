@@ -1,0 +1,1 @@
+// Squoosh compression script
